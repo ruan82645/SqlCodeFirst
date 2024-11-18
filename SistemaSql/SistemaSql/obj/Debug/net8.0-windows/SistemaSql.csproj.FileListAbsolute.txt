@@ -1,0 +1,17 @@
+C:\Users\Ruan\source\projetoCodeFirst\SistemaSql\SistemaSql\bin\Debug\net8.0-windows\SistemaSql.exe
+C:\Users\Ruan\source\projetoCodeFirst\SistemaSql\SistemaSql\bin\Debug\net8.0-windows\SistemaSql.deps.json
+C:\Users\Ruan\source\projetoCodeFirst\SistemaSql\SistemaSql\bin\Debug\net8.0-windows\SistemaSql.runtimeconfig.json
+C:\Users\Ruan\source\projetoCodeFirst\SistemaSql\SistemaSql\bin\Debug\net8.0-windows\SistemaSql.dll
+C:\Users\Ruan\source\projetoCodeFirst\SistemaSql\SistemaSql\bin\Debug\net8.0-windows\SistemaSql.pdb
+C:\Users\Ruan\source\projetoCodeFirst\SistemaSql\SistemaSql\obj\Debug\net8.0-windows\SistemaSql.Form1.resources
+C:\Users\Ruan\source\projetoCodeFirst\SistemaSql\SistemaSql\obj\Debug\net8.0-windows\SistemaSql.csproj.GenerateResource.cache
+C:\Users\Ruan\source\projetoCodeFirst\SistemaSql\SistemaSql\obj\Debug\net8.0-windows\SistemaSql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruan\source\projetoCodeFirst\SistemaSql\SistemaSql\obj\Debug\net8.0-windows\SistemaSql.AssemblyInfoInputs.cache
+C:\Users\Ruan\source\projetoCodeFirst\SistemaSql\SistemaSql\obj\Debug\net8.0-windows\SistemaSql.AssemblyInfo.cs
+C:\Users\Ruan\source\projetoCodeFirst\SistemaSql\SistemaSql\obj\Debug\net8.0-windows\SistemaSql.csproj.CoreCompileInputs.cache
+C:\Users\Ruan\source\projetoCodeFirst\SistemaSql\SistemaSql\obj\Debug\net8.0-windows\SistemaSql.sourcelink.json
+C:\Users\Ruan\source\projetoCodeFirst\SistemaSql\SistemaSql\obj\Debug\net8.0-windows\SistemaSql.dll
+C:\Users\Ruan\source\projetoCodeFirst\SistemaSql\SistemaSql\obj\Debug\net8.0-windows\refint\SistemaSql.dll
+C:\Users\Ruan\source\projetoCodeFirst\SistemaSql\SistemaSql\obj\Debug\net8.0-windows\SistemaSql.pdb
+C:\Users\Ruan\source\projetoCodeFirst\SistemaSql\SistemaSql\obj\Debug\net8.0-windows\SistemaSql.genruntimeconfig.cache
+C:\Users\Ruan\source\projetoCodeFirst\SistemaSql\SistemaSql\obj\Debug\net8.0-windows\ref\SistemaSql.dll
