@@ -7,6 +7,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaSql", "SistemaSql\Si
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vizualizacao", "vizualizacao", "{AFAE040C-4334-4B1D-AD9A-E8F1781A8E0D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Model", "Model", "{ACE13281-2840-4C52-B710-9750A14F3CD1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Controladores", "Controladores", "{3C9057F3-B895-42C9-89B8-74AB3D36753A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tabelas", "Tabelas", "{A9B19F0E-1E98-44BF-95CD-8D3A40A5EFD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controladores", "Controladores\Controladores.csproj", "{4D0DCF0B-41DE-4335-97DD-ABCD1FE9C78B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +25,17 @@ Global
 		{DBF94485-5484-4F71-8C4D-DD0037F9DB63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBF94485-5484-4F71-8C4D-DD0037F9DB63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBF94485-5484-4F71-8C4D-DD0037F9DB63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D0DCF0B-41DE-4335-97DD-ABCD1FE9C78B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D0DCF0B-41DE-4335-97DD-ABCD1FE9C78B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D0DCF0B-41DE-4335-97DD-ABCD1FE9C78B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D0DCF0B-41DE-4335-97DD-ABCD1FE9C78B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{DBF94485-5484-4F71-8C4D-DD0037F9DB63} = {AFAE040C-4334-4B1D-AD9A-E8F1781A8E0D}
+		{4D0DCF0B-41DE-4335-97DD-ABCD1FE9C78B} = {3C9057F3-B895-42C9-89B8-74AB3D36753A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {426FA333-861C-48CE-9EF0-8126C5E5DB4B}
